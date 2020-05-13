@@ -6,7 +6,45 @@
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
-
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- Strings used in the Main Menu -->
+    <string name="mm_title">Sheep</string>
+    <string name="mm_motto">Get better sleep with Sheep.</string>
+    <string name="mm_button1">About Sheep</string>
+    <string name="mm_button2">Alarms</string>
+    <string name="mm_button3">Preferences</string>
+    <!-- Strings used in the About -->
+    <string name="ab_title">About Sheep</string>
+    <string name="ab_acronym">Placeholder</string>
+    <string name="ab_mission">Placeholder</string>
+    <string name="ab_button1">Back</string>
+    <!-- Strings used in Alarm List -->
+    <string name="al_edit">Edit</string>
+    <string name="al_delete">Delete</string>
+    <string name="al_clear">Clear</string>
+    <string name="al_new">New Alarm</string>
+    <string name="al_back">Back</string>
+    <!-- Strings used in Preferences -->
+    <string name="pref_enable">Enable</string>
+    <string name="pref_disable">Disable</string>
+    <string name="pref_label1">Vibration</string>
+    <string name="pref_label2">Light Alarms</string>
+    <string name="pref_slider">Volume</string>
+    <!-- Strings used in Edit Alarm -->
+    <string name="ed_label1">Time</string>
+    <string name="ed_button1">Set</string>
+    <string name="ed_delete">Delete</string>
+    <!-- Strings used in Wake Poll -->
+    <string name="wp_label1">How are you feeling?</string>
+    <string name="wp_labelm">Good morning!</string>
+    <string name="wp_labela">Good afternoon!</string>
+    <string name="wp_labele">Good evening.</string>
+    <!-- should be minimal, bear in mind. -->
+    <!-- Strings used in Energy Poll -->
+    <string name="ep_label1">How energetic do you feel right now?</string>
+    <string name="ep_label2">How happy do you feel right now?</string>
+    <string name="ep_label3">How rested do you feel right now?</string>
+    <string name="ep_label_root">Please answer questions on a scale from 1, meaning not at all, to 5, meaning the most.</string>
+    <string name="ep_button1">Back</string>
 </resources>
