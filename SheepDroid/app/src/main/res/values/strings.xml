@@ -19,7 +19,7 @@
     <string name="al_delete">Delete</string>
     <string name="al_clear">Clear</string>
     <string name="al_new">New Alarm</string>
-    <string name="al_back">Back</string>
+    <string name="al_title">Alarms</string>
     <!-- Strings used in Preferences -->
     <string name="pref_title">Preferences</string>
     <string name="pref_enable">Enable</string>
@@ -30,8 +30,8 @@
     <!-- Strings used in Edit Alarm -->
     <string name="ed_title">Edit Alarm</string>
     <string name="ed_label1">Time</string>
-    <string name="ed_button1">Save</string>
-    <string name="ed_delete">Delete</string>
+    <string name="ed_button1">Sleep</string>
+    <string name="ed_delete">Cancel</string>
     <!-- Strings used in Wake Poll -->
     <string name="wp_label1">How are you feeling?</string>
     <string name="wp_labelm">Good morning!</string>
@@ -44,4 +44,16 @@
     <string name="ep_label3">How rested do you feel right now?</string>
     <string name="ep_label_root">Please answer questions on a scale from 1, meaning not at all, to 5, meaning the most.</string>
     <string name="ep_button1">Submit</string>
+    <!--Strings used in the SharedPref file as fields-->
+    <string name="sp_vibration">vibration</string>
+    <string name="sp_lights">lights</string>
+    <string name="sp_deadline_hour">deadline_hour</string>
+    <string name="sp_deadline_minute">deadline_minute</string>
+    <string name="sp_is_AM">is_AM</string>
+    <string name="sp_deadline_active">deadline_active</string>
+    <string name="sp_most_recent_wake_poll">most_recent_wake_poll</string>
+    <string name="sp_ep_energy">ep_energy</string>
+    <string name="sp_ep_happy">ep_happy</string>
+    <string name="sp_ep_rest">ep_rest</string>
+
 </resources>
