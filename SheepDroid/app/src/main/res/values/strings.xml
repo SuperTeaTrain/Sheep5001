@@ -27,6 +27,7 @@
     <string name="pref_label1">Vibration</string>
     <string name="pref_label2">Light Alarms</string>
     <string name="pref_slider">Volume</string>
+    <string name="pref_label3">MQTT Reconnect</string>
     <!-- Strings used in Edit Alarm -->
     <string name="ed_title">Edit Alarm</string>
     <string name="ed_label1">Time</string>

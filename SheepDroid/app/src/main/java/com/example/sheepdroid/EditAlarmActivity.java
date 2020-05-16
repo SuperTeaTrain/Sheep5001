@@ -75,6 +75,4 @@ public class EditAlarmActivity extends AppCompatActivity {
             }
         });
     }
-
-
 }
